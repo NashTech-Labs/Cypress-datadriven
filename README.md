@@ -1,6 +1,5 @@
 # Cypress-datadriven
 
-*Introduction:-**
 This template will help you to have a data driven framework with Cypress. Here, we are using an .xlsx file(excel) file to read the test data. Since, cypress doesn't support .xlsx file, therefore we will conc=vert the excel file to JSON data, and as a result we will use that JSON data in our test cases.
 
 # Why we need a Data Driven Framework? 
