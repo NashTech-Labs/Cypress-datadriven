@@ -56,3 +56,4 @@ node_modules/.bin/cypress run --browser chrome
 ```
 
 For better understading, please refer to the blog
+https://blog.knoldus.com/reading-data-from-excel-file-cypress/
