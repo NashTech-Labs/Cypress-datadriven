@@ -34,11 +34,9 @@ Assertion framework - Chai, Mocha, jQuery
 
 In order to run the test, we just have to go into the directory 
 
-1.  Checkout to the develop branch
+1.  Check out to the directory ../Cypress-datadriven/ReadExcel-Cypress
 
-2.  Check out to the directory ../Cypress-datadriven/ReadExcel-Cypress
-
-3. To open the cypress dashboard, use the command
+2. To open the cypress dashboard, use the command
 
 ```
 node_modules/.bin/cypress open
